@@ -5,6 +5,7 @@ An example of importing excel data to a database, with Express.js & MySQL.
 -   [Prerequisites](#prerequisites)
 -   [Installation](#installation)
 -   [Features](#features)
+-   [Demo](#demo)
 -   [Built wtih](#features)
 -   [Author](#author)
 -   [License](#license)
@@ -34,6 +35,10 @@ An example of importing excel data to a database, with Express.js & MySQL.
 
 -   [x] CRUD & Import data from excel file.
 -   [x] CORS allowed
+
+## Demo
+
+See the demo [here](https://drive.google.com/file/d/10zp-7p_B7HKCCCGDUYtvBOlAo7akjYmQ/view?usp=sharing)
 
 ## Built with
 
